@@ -2,7 +2,7 @@
 
 ## Predict which Tweets are about real disasters and which ones are not.
 
-#### Alexander Bricken
+#### Karan Kumar Dhote
 
 ---
 
